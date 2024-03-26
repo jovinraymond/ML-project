@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PAVILION/Desktop/ML/ML-project/mlruns/0/a2ae0fb20ee042ebbfd60d88597f35e7/artifacts
+end_time: 1711100472548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2ae0fb20ee042ebbfd60d88597f35e7
+run_name: whimsical-cod-116
+run_uuid: a2ae0fb20ee042ebbfd60d88597f35e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711100468225
+status: 3
+tags: []
+user_id: PAVILION
